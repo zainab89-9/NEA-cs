@@ -1,0 +1,1 @@
+print("NEA project started")
